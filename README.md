@@ -26,3 +26,9 @@ Description:
 Author:Katelyn Cox
 
 Description:Method Testing using Logestic regression for Response variable:
+
+**MI_KNN**
+
+Author: Siri Bafna 
+
+Description: KNN Classification Testing for Response Variable 'LET_IS' (life or death) 
