@@ -29,3 +29,9 @@ Description:Method Testing using Logestic regression for Response variable:
 Author: Siri Bafna 
 
 Description: KNN Classification Testing for Response Variable 'LET_IS' (life or death) 
+
+**MI-cleaned-TT.csv**
+
+Author: Tiffany Tran
+
+Description: (Katelyn thinks....) imputes the missing values by (insert method here) and drops nearly empty columns. Leaving "x" number of columns and rows 
