@@ -69,3 +69,9 @@ MI_Preprocessing 1.ipynb
 Author: Katelyn
 
 Description: Shell of the preprocessing code to get the cleaned dataset
+
+**MI_moment_split.ipynb**
+
+Author: Katelyn
+
+Description: python code that shows how to split the data into the four moments 
