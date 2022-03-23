@@ -61,3 +61,11 @@ Author: Katelyn
 
 Description: Data with all predictors for 72 hours
 
+MI_Preprocessing 1.ipynb
+
+
+**MI_Preprocessing 1.ipynb**
+
+Author: Katelyn
+
+Description: Shell of the preprocessing code to get the cleaned dataset
