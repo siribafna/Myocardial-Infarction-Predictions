@@ -36,26 +36,26 @@ Author: Tiffany Tran
 
 Description: (Katelyn thinks....) imputes the missing values by (insert method here) and drops nearly empty columns. Leaving "x" number of columns and rows 
 
-**MI_clean_AD24**
+**MI_raw_AD24**
 
 Author: Katelyn
 
 Description: the time of admission to hospital: all input columns (2-112) except 93, 94, 95, 100, 101, 102, 103, 104, 105 can be used for prediction;
 
-**MI_clean_AD24**
+**MI_raw_AD24**
 
 Author: Katelyn
 
 Description: the end of the first day (24 hours after admission to the hospital): all input columns (2-112) except 94, 95, 101, 102, 104, 105 can be used for prediction;
 
-**MI_clean_AD48**
+**MI_raw_AD48**
 
 Author: Katelyn
 
 Description: the end of the second day (48 hours after admission to the hospital) all input columns (2-112) except 95, 102, 105 can be used for prediction;
 
 
-**MI_clean_AD72**
+**MI_raw_AD72**
 
 Author: Katelyn
 
