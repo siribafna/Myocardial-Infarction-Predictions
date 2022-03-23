@@ -75,3 +75,9 @@ Description: Shell of the preprocessing code to get the cleaned dataset
 Author: Katelyn
 
 Description: python code that shows how to split the data into the four moments 
+
+**moments_+_variable**
+
+Author: Tiffany Lo
+
+Description: combined complications into a single variable, changed row values for LET_IS and combined complications for readability, separated data into 4 moments; removed overlapping variables
